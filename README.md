@@ -1,2 +1,5 @@
 # mening-birinchi-repom
-men bugun git hubda birinchi repositoriy ni yaratdim
+## git hubdagi birinchi loyiham
+**men bugun git hubda birinchi repositoriy ni yaratdim**
+- muallif
+1. Akbar_devops
